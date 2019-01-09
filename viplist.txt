@@ -133,4 +133,4 @@ xGrapple
 yRicky
 tuxeto
 Stuckas
-KazatanhsPVP
+KazahstanPVP
