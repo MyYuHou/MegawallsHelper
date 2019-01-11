@@ -133,5 +133,5 @@ xGrapple
 yRicky
 tuxeto
 Stuckas
-KazahstanPVP
+KazahstanPvP
 AsTdev1ce
