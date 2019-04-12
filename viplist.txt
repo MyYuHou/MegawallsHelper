@@ -203,3 +203,5 @@ Takaranoao
 LoserWater
 MAYBLACK
 GROWTH
+NotFractures
+NICOIES
