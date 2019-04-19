@@ -211,3 +211,4 @@ exlink
 藤野九步
 Rewrites
 桐须真冬
+LastResort
